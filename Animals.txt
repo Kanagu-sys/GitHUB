@@ -1,2 +1,4 @@
 Cow
 Tiger
+Lion
+Leopard
